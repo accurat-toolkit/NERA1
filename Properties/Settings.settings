@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NERA1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NERA1_DiacService_DiacWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.racai.ro:8088/DiacWebService.asmx</Value>
+    </Setting>
+    <Setting Name="NERA1_TTLService_TTL" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws.racai.ro:8080/pdk/ttlws</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
